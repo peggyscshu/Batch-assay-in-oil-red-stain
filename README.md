@@ -1,4 +1,4 @@
-# Batch-assay-in-oil-red-stain
+# Batch-assay-in-oil-red-stain [![DOI](https://zenodo.org/badge/315870372.svg)](https://zenodo.org/badge/latestdoi/315870372)
 This Fiji macro is designed to automatically measure the oil red occupation and intensity in tissues from tif files collected in a folder.
 #Examples
 1.	Tissues or cells stained with oil red and hematoxylin. 
