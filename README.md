@@ -22,7 +22,7 @@ This Fiji macro is designed to automatically measure the oil red occupation and 
 1.	Ruifrok, A.C. & Johnston, D.A. (2001), "Quantification of histochemical staining by color deconvolution", Anal. Quant. Cytol. Histol. 23: 291-299, PMID 11531144
 
 #Feedback
-1.	Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request..
-2.	Do these codes help on your research? Please cite as the follows. Wang, M.C. , Hsu, M.T., Hu, M.Y., Lin, C.C., Hsu, S.C., Chen, R.D., Lee, J. R., Chou, Y.L., Furukawa, F., Hwang, S.P.L., Hwang, P.P., and Tseng, Y.C., “Adaptive metabolic responses in a thermostabilized environment: transgenerational trade-off implications from tropical tilapia.”
+1.	Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
+2.	Do these codes help on your research? Please cite as the follows. Wang, M.C. , Hsu, M.T., Hu, M.Y., Lin, C.C., Hsu, S.C., Chen, R.D., Lee, J. R., Chou, Y.L., Furukawa, F., Hwang, S.P.L., Hwang, P.P., and Tseng, Y.C., “Adaptive metabolic responses in a thermostabilized environment: transgenerational trade-off implications from tropical tilapia.” Science of The Total Environment 806 (2022)
 
 ![alt text](https://github.com/peggyscshu/Batch-assay-in-oil-red-stain/blob/main/Flowchart.JPG)
